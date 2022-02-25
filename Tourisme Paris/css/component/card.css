@@ -1,0 +1,14 @@
+.card {
+	background-color: blueviolet;
+	padding: 10px 20px;
+}
+
+.card img {
+	padding: 30px;
+	display: flex;
+}
+
+.card h3 {
+	flex-grow: 1;
+	padding-left: 15px;
+}
